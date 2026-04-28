@@ -27,25 +27,29 @@ Vibe Coding is the art of translating business friction into agentic workflows. 
 
 ## Available Blueprints
 
-### 1. Lead Generation Engine
+### 1. Lead Generation Engine (`prompts/lead-generation-engine.md`)
 - Multi-source lead scraping (LinkedIn, Indeed, Business Registries)
 - SMTP-verified email deliverability
 - Automated CRM sync (Supabase/Notion)
+- **Friction Signals**: Detects businesses hiring for repetitive roles
 
-### 2. Content Automation
-- Social media content generation (X, LinkedIn)
-- Blog post drafting from research
-- Hashtag and trend optimization
+### 2. Content Automation (`prompts/content-automation.md`)
+- Social media content generation (X, LinkedIn, Instagram)
+- Blog post drafting from research with SEO optimization
+- Hashtag strategy and visual prompt generation
+- **Hook formulas**: Pattern Interrupt, Contrarian, Curiosity Gap
 
-### 3. Outreach Systems
-- High-conversion cold outreach templates
+### 3. Outreach Systems (`prompts/outreach-sequence.md`)
+- High-conversion cold outreach templates (3 variants)
 - Follow-up sequence automation
 - Response classification and routing
+- **Trust Bomb strategy**: Give value before asking
 
-### 4. Intelligence Gathering
-- Competitor monitoring
-- Market trend analysis
-- Opportunity signal detection
+### 4. Intelligence Gathering (`prompts/intelligence-gathering.md`)
+- Competitor monitoring (pricing, services, hires)
+- Market trend analysis (Reddit, LinkedIn, Product Hunt)
+- Opportunity signal detection with scoring system (1-10)
+- **Predictive insights**: 30-day trend forecasting
 
 ## Friction Signals (When to Use This)
 
@@ -74,4 +78,4 @@ MIT - Free to use, modify, and deploy.
 
 ---
 
-**Built by Nexure LLC** | [GitHub](https://github.com/Khamoushe-Nexure/nexure-vibe-coding-blueprint) | [Gumroad](https://nexure.gumroad.com)
+**Built by Nexure LLC** | [GitHub](https://github.com/Khamoushe-Nexure/nexure-vibe-coding-blueprint) | [Gumroad](https://nexurellc.gumroad.com)
